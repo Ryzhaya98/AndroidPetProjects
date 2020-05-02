@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DB</string>
+    <string name="app_in_name">VALIK</string>
+    <string name="app_name_after">Register App</string>
+    <string name="text_bottom">Авторизуйтесь</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="btnReg">Зарегестрироваться</string>
+</resources>
